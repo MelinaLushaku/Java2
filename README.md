@@ -8,7 +8,7 @@
 
 <body style = "background:lightblue" >
 <header>
-<img src = "UBTlogo.png" alt = "logo e UBT" height= "150px" width="150px">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ubtlogo.png" alt = "logo e UBT" height= "150px" width="150px">
 <p style = "display: inline">Home About Contact Us</p>
 <ol>
 <li>Lajme</li>
